@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Cześć! Nazywam się Maciek i studiuję Informatykę i Systemy Inteligentne na *AGH*. 
+Cześć! Nazywam się Maciek i studiuję Informatykę i Systemy Inteligentne na **AGH**. 
