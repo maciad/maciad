@@ -17,4 +17,5 @@ Here are some ideas to get you started:
 
 Cześć! Nazywam się Maciek i studiuję Informatykę i Systemy Inteligentne na **AGH**. 
 
-Fork - https://github.com/maciad/SAFA
+[Fork](https://github.com/maciad/SAFA)
+[Moja strona](https://maciad.github.io/)
